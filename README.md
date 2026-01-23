@@ -29,7 +29,8 @@
 - Infinite Stamina
 - Infinite Ultimate Energy
 - No Skill CD
-
+- Movement Speed
+- Noclip
 
 ### World
 - Dumb Enemies
