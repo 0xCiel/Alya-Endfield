@@ -28,14 +28,17 @@
 - Damage Multiplier
 - Infinite Stamina
 - Infinite Ultimate Energy
+- No Skill CD
 
 
 ### World
 - Dumb Enemies
 - Global Speed
+- Skip Cutscene
 
 ### Visual
 - Peeking
+- Camera FOV
   
 
 
@@ -43,9 +46,9 @@
 ---
 
 ## Screenshots
-<img width="1545" height="1144" alt="image" src="https://github.com/user-attachments/assets/2fb2735d-8520-4492-8438-f00c61db19fa" />
-<img width="902" height="490" alt="image" src="https://github.com/user-attachments/assets/be182eef-bfec-4b3c-a4a5-591a3a956e73" />
-<img width="1312" height="945" alt="image" src="https://github.com/user-attachments/assets/7738eca2-1aef-438d-ba68-4a75eb8ba49a" />
+<img width="929" height="690" alt="image" src="https://github.com/user-attachments/assets/cadc53c7-88c4-4094-ad68-22d569e74f1b" />
+<img width="867" height="619" alt="image" src="https://github.com/user-attachments/assets/e9876780-2013-4549-b80b-adff09a5248c" />
+<img width="895" height="623" alt="image" src="https://github.com/user-attachments/assets/d371fe9f-14cd-45f1-a2d8-27ae25161bac" />
 
 
 
