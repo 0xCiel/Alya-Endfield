@@ -38,6 +38,7 @@
 - ~Skip Cutscene~
 - Chest Teleport
 - Collection Coin Teleport
+- Kill Aura
 
 ### Visual
 - Peeking
