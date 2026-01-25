@@ -43,6 +43,10 @@
 - Auto Loot Drops
 - Auto Loot Gather
 
+### Teleports
+- TP
+- TP Points
+
 ### Visual
 - Peeking
 - Camera FOV
