@@ -39,6 +39,9 @@
 - Chest Teleport
 - Collection Coin Teleport
 - Kill Aura
+- Auto Loot Chest
+- Auto Loot Drops
+- Auto Loot Gather
 
 ### Visual
 - Peeking
