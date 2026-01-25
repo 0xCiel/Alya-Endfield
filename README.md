@@ -42,6 +42,10 @@
 - Auto Loot Chest
 - Auto Loot Drops
 - Auto Loot Gather
+- Auto Loot Flowers
+- Auto Loot All Collections
+- Auto Loot All Doodad
+- Auto Break Ore
 
 ### Teleports
 - TP
