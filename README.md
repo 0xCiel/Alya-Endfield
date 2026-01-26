@@ -34,6 +34,7 @@
 - Max Potential
 
 ### World
+- Auto Puzzle
 - Dumb Enemies
 - Global Speed
 - Skip Cutscene
