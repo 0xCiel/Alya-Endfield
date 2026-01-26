@@ -39,13 +39,38 @@
 - Chest Teleport
 - Collection Coin Teleport
 - Kill Aura
-- Auto Loot Chest
-- Auto Loot Drops
-- Auto Loot Gather
-- Auto Loot Flowers
-- Auto Loot All Collections
-- Auto Loot All Doodad
 - Auto Break Ore
+
+### Auto Loot
+- **Enable** 
+- **Targets**:
+  - Chests
+  - Drops
+  - Gather
+  - Flowers
+  - Coins
+  - Collections
+  - Doodads
+  - **All**
+
+### ESP
+- **Targets**:
+  - Chests
+  - Enemies
+  - NPCs
+  - Ores
+  - Coins
+  - Collections
+  - Fixable Robots
+  - Drops
+  - Flowers
+  - Doodads
+  - **All**
+- **Customization**:
+  - Distance
+  - Start/End Colors
+  - Text Size
+  - Snaplines
 
 ### Teleports
 - TP
@@ -54,9 +79,6 @@
 ### Visual
 - Peeking
 - Camera FOV
-- ESP
-  
-
 
 ## Still WIP
 ---
@@ -65,7 +87,3 @@
 <img width="929" height="690" alt="image" src="https://github.com/user-attachments/assets/cadc53c7-88c4-4094-ad68-22d569e74f1b" />
 <img width="867" height="619" alt="image" src="https://github.com/user-attachments/assets/e9876780-2013-4549-b80b-adff09a5248c" />
 <img width="895" height="623" alt="image" src="https://github.com/user-attachments/assets/d371fe9f-14cd-45f1-a2d8-27ae25161bac" />
-
-
-
----
