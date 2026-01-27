@@ -32,6 +32,7 @@
 - Movement Speed
 - Noclip
 - Max Potential
+- Custom Stats
 
 ### World
 -Infinite Transmission Length
