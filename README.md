@@ -45,6 +45,7 @@
 - Kill Aura
 - Auto Break Ore
 - Auto Skip Dialogue
+- Quest Teleport
 
 ### Auto Loot
 - **Enable** 
