@@ -83,6 +83,7 @@
 - TP Points
 
 ### Visual
+- UID Editor
 - Peeking
 - Camera FOV
 - Body Parts Resizer
