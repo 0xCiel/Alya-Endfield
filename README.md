@@ -36,7 +36,7 @@
 - Custom Stats
 
 ### World
-- Infinite Transmission Length
+- ~Infinite Transmission Length~
 - Auto Puzzle
 - Dumb Enemies
 - Global Speed
@@ -47,6 +47,8 @@
 - Auto Break Ore
 - Auto Break Box
 - Auto Skip Dialogue
+- No Talk Delay
+- Auto Dialogue
 - Quest Teleport
 
 ### Auto Loot
