@@ -54,7 +54,8 @@
 - Ores
 - Box
 - Specstone
-
+- Wall
+- Obstacle
 
 ### Auto Loot
 - **Targets**:
