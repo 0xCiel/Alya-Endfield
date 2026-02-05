@@ -36,6 +36,8 @@
 - Custom Stats
 
 ### World
+- Mob Vacuum
+- Drops Vacuum
 - ~Infinite Transmission Length~
 - Auto Puzzle
 - Dumb Enemies
